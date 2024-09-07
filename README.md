@@ -1,6 +1,6 @@
 # Road-Seg
 Enhancing road segmentation model for Asphalt edge detection
-(This project was done as a part of my internship at Abular Innovations,Eindhoven,Netherlands)
+(This project was done as a part of my internship at Avular Innovations,Eindhoven,Netherlands)
 
 
 # About
@@ -31,10 +31,10 @@ For more information about the implementation, please refer to the report [here]
 
 <div  align="center">    
   <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_1.jpeg" width="1000" height="200" />
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_2.jpeg" width="1000" height="300" />   
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_2.jpeg" width="1000" height="200" />   
 </div>
 
 <div  align="center">    
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_3.jpeg" width="1000" height="300" />
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_4.jpeg" width="1000" height="300" />   
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_3.jpeg" width="1000" height="200" />
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_4.jpeg" width="1000" height="200" />   
 </div>
