@@ -30,11 +30,11 @@ For more information about the implementation, please refer to the report [here]
 
 
 <div  align="center">    
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_1.jpeg" width="600" height="300" />
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_2.jpeg" width="600" height="300" />   
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_1.jpeg" width="1000" height="200" />
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_2.jpeg" width="1000" height="300" />   
 </div>
 
 <div  align="center">    
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_3.jpeg" width="600" height="300" />
-  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_4.jpeg" width="600" height="300" />   
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_3.jpeg" width="1000" height="300" />
+  <img src="https://github.com/bratjay01/Road-Seg/blob/main/Final_prediction_4.jpeg" width="1000" height="300" />   
 </div>
